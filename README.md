@@ -23,7 +23,7 @@ After the data is inserted, EDA has been performed and tried to explore various 
 ### 3. Loading the data to MYSQL Database
 - The cleaned data then loaded to MYSQL database uning SQLAlchemy in python.
   
-### 4. Data Analysis in SQL
+### 4. Data Analysis using SQL
 - After the data has been loaded to MYSQL a thourough analysis has been performed and intended to generate various actionable insights from the data using **SQL**.
   
 ## 6 Practice Questions
