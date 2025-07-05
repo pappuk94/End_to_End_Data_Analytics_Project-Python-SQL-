@@ -27,8 +27,7 @@ After the data is inserted, EDA has been performed and tried to explore various 
 - After the data has been loaded to MYSQL a thourough analysis has been performed and intended to generate various actionable insights from the data using **SQL**.
   
 ## 6 Practice Questions
-
-1. 1. Find top 10 highest revenue generating products.
+1. Find top 10 highest revenue generating products.
 2. Find top 5 highest selling product in each region.
 3. Find month over month growth comparision for 2020 and 2023 sales, e.g. jan 2022 vs jan 2023.
 4. Find which month has highest sales for each category.
