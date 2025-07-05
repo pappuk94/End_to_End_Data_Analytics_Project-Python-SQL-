@@ -1,6 +1,6 @@
 # End to End Data Analytics Project (Python + SQL)
 
-[Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+[Click Here to get Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
 
 ![Orders Logo](https://github.com/pappuk94/End_to_End_Data_Analytics_Project-Python-SQL-/blob/main/orders.jpg)
 
